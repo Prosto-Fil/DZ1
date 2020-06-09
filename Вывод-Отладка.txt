@@ -1,0 +1,14 @@
+﻿Qt VS Tools: QML debug: Debugging project 'DZ1'...
+Qt VS Tools: QML debug: DISABLED: Non-Qt/MSBuild project
+"DZ1.exe" (Win32). Загружено "C:\Users\HP37RTC\source\repos\DZ1\Debug\DZ1.exe". Символы загружены.
+"DZ1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"DZ1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"DZ1.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"DZ1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"DZ1.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"DZ1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x1b910 завершился с кодом 0 (0x0).
+Поток 0x2e378 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x1d4c4 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x18fe0 завершился с кодом -1073741749 (0xc000004b).
+Программа "[87680] DZ1.exe" завершилась с кодом -1073741510 (0xc000013a).

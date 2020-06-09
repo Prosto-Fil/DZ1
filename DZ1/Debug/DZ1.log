@@ -1,0 +1,27 @@
+﻿  DZ1.cpp
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(21,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(44,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(75,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(99,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(165,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(260,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(418,72): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(437,72): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(482,84): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(527,84): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(627,56): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(710,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(730,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(776,22): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(789,48): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(856,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(857,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(866,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(894,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(895,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(904,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(1026,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(1042,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(1072,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP37RTC\source\repos\DZ1\DZ1\DZ1.cpp(325): warning C4715: fileshow: значение возвращается не при всех путях выполнения
+  DZ1.vcxproj -> C:\Users\HP37RTC\source\repos\DZ1\Debug\DZ1.exe
